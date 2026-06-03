@@ -1,0 +1,4 @@
+- [ ] Update server/modules/load_vectorstore.py to save uploaded PDFs deterministically to disk before parsing
+- [ ] Add validation logs: pages loaded, total extracted characters, number of chunks
+- [ ] Ensure Pinecone upsert uses correct ids/metadata fields including "text"
+- [ ] Run a quick local test: upload a PDF and verify ask_question returns sources/non-empty context
