@@ -12,7 +12,7 @@ langchain-google-genai==1.0.10
 
 pinecone==5.0.1
 
-PyPDF2==3.0.1
+PyPDF
 
 python-dotenv==1.0.1
 pydantic==2.8.2
